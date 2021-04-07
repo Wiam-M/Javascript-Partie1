@@ -1,0 +1,1 @@
+alert("Nom: Malek\nPrénom: Wiam\nVille: Paris")
